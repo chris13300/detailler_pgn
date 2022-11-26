@@ -17,7 +17,7 @@ command : detailler_pgn.exe path_to_your_pgn_file.pgn
 - detailler_pgn cleans most optional tags :<br>
 ![2_headers_cleaned](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/2_headers_cleaned.jpg)<p>
 
-- detailler_pgn use pgn-extract to get the long algebraic moves (ex : g2g4) :<br>
+- detailler_pgn uses pgn-extract to get the long algebraic moves :<br>
 ![3_pgn-extract](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/3_pgn-extract.jpg)<p>
 
 - finally we get something like this :<br>
