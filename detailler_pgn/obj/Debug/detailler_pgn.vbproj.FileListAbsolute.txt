@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\bin\Debug\detailler_pgn.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\bin\Debug\detailler_pgn.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\bin\Debug\detailler_pgn.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\bin\Debug\detailler_pgn.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\obj\Debug\detailler_pgn.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\obj\Debug\detailler_pgn.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\obj\Debug\detailler_pgn.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\obj\Debug\detailler_pgn.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\detailler_pgn\detailler_pgn\obj\Debug\detailler_pgn.pdb
