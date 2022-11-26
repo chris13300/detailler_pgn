@@ -11,7 +11,7 @@ command : detailler_pgn.exe path_to_your_pgn_file.pgn
 ![commented_pgn](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/commented_pgn.jpg)<p>
 
 - we use SCID to clean most comments and annotations :<br>
-![scid](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/scid.jpg)<br>
+![1_scid](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/1_scid.jpg)<br>
 ![1_uncommented_pgn](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/1_uncommented_pgn.jpg)<p>
 
 - detailler_pgn cleans most optional tags :<br>
