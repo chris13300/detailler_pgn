@@ -2,8 +2,8 @@
 Tool to convert san moves to enhanced long algebraic moves<p>
 
 Prerequisites :<br>
-copy [nettoyer_epd.exe](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/nettoyer_epd.exe) to your DETAILLER_PGN folder<br>
-copy [pgn-extract.exe](https://github.com/chris13300/detailler_pgn/blob/main/detailler_pgn/bin/Debug/pgn-extract.exe) to your DETAILLER_PGN folder<p>
+copy [nettoyer_epd.exe](https://github.com/chris13300/nettoyer_epd/releases/download/v1.0.0.0/nettoyer_epd.exe) to your DETAILLER_PGN folder<br>
+copy [pgn-extract.exe](https://github.com/chris13300/detailler_pgn/releases/download/v1.0.0.0/pgn-extract.exe) to your DETAILLER_PGN folder<p>
 command : detailler_pgn.exe path_to_your_pgn_file.pgn
 
 # How it works ?
